@@ -1,4 +1,4 @@
-#Django ToDo [![Build Status](https://travis-ci.org/abhishek-iitj/django-todo.svg?branch=master)](https://travis-ci.org/abhishek-iitj/django-todo)
+# Django ToDo [![Build Status](https://travis-ci.org/abhishek-iitj/django-todo.svg?branch=master)](https://travis-ci.org/abhishek-iitj/django-todo)
 A ToDo REST API app developed in Python(Django)
 
 
