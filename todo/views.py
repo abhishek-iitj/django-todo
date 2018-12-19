@@ -3,4 +3,4 @@ from django.http import HttpResponse
 
 
 def index(request):
-    return HttpResponse("Hello World! You are at todos app index")
+    return HttpResponse("Hello World! You are at To-Do app index")
