@@ -1,3 +1,7 @@
 from django.db import models
 
-# Create your models here.
+
+class ToDo(models.Model):
+    message = models.CharField(max_length=500)
+    name = models.CharField(max_length=500)
+    time = models.DateTimeField()
